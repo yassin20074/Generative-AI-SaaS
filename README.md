@@ -62,6 +62,5 @@ docker-compose up --build
 
 3. Open your browser at http://localhost:3000 to use the frontend interface.
 
-# Created By:eng.Yassin Sanad edanad  
-
+# Created By:eng.Yassin Sanad 
  
