@@ -1,7 +1,9 @@
 fastapi
 uvicorn
-boto3
-openai
-python-multipart
+python-jose
+passlib[bcrypt]
 pydantic
 requests
+openai
+boto3
+python-multipart
